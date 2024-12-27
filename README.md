@@ -1,4 +1,4 @@
-# 🛒 **Grocery Management System**  
+# 🛒 **Online Grocery Management **  
 
 Welcome to the **Grocery Management System**, a comprehensive Python-based application designed to manage groceries efficiently! This system offers functionalities for **users** and **admins** to handle grocery items, manage carts, and track orders seamlessly.  
 
@@ -27,28 +27,4 @@ Welcome to the **Grocery Management System**, a comprehensive Python-based appli
 
 ---
 
-## 🔑 **How to Use**  
 
-### 1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/YourUsername/Grocery-Management-System.git
-cd Grocery-Management-System
-2️⃣ Run the Application
-Ensure you have Python installed. Then, execute the script:
-
-bash
-Copy code
-python app.py
-3️⃣ Login or Register
-Users: Register/login to add items to your cart and place orders.
-Admins: Login to update the grocery list or view user orders.
-📂 File Structure
-bash
-Copy code
-📦 Grocery-Management-System  
- ┣ 📜 app.py                  # Main application file  
- ┣ 📜 users.json              # Stores user account data  
- ┣ 📜 admin.json              # Stores admin account data  
- ┣ 📜 grocery.json            # Stores inventory data  
- ┣ 📜 cart.json               # Stores cart details  
- ┣ 📜 orders.json             # Stores order history 
